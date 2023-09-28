@@ -1,0 +1,18 @@
+header .active {
+  color: #f00 !important;
+}
+header {
+  width: 100%;
+  background: #109be9;
+  padding: 26px 0;
+  position: fixed;
+  z-index: 20;
+}
+.nav-link {
+  color: #fff !important;
+  font-size: 16px;
+}
+footer {
+  color: #000 !important;
+  font-size: 16px;
+}
