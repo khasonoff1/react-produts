@@ -6,7 +6,7 @@ export class Footer extends Component {
     return (
       <footer className="text-center p-3">
         <Container>
-          <footer>Made by Zahiriddin</footer>
+          <footer>Made by Kamronbek</footer>
         </Container>
       </footer>
     );
